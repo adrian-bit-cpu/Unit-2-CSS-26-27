@@ -1,0 +1,12 @@
+h1 h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+.player-card p{
+    color: #f2b705;
+}
+.player-card .btn{
+    background-color:#f2b705;
+}
+#banner {
+    border-bottom: 3px solid #5ADB8C;
+}

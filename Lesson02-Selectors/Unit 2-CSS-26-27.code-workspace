@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/player-profile"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Unit 2-CSS-26-27"
+	}
+}
